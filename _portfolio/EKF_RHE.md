@@ -14,7 +14,7 @@ collection: portfolio
     <img src="/images/MPC.PNG" alt="buggy_lqr_plots" style="width:400px;height:230px;">
     </div>
     
-    <img src="/images/EKF_RHE.PNG" alt="buggy_lqr_plots" style="width:400px;height:450px;">
+    <img src="/images/EKF_RHE.PNG" alt="buggy_lqr_plots" style="width:350px;height:400px;">
     </div>
     
 * <p style="text-align: justify;"><b>Results</b><br>The paper presents simulation results that compare the trajectory accuracy of EKF and RHE. The EKF approach, which relies on linearizing system dynamics, shows higher accuracy but introduces more noise sensitivity. RHE, on the other hand, yields a smoother trajectory due to its real-time optimization over a horizon, although it is computationally more intensive. The results highlight that while EKF is faster and more accurate in some scenarios, RHE offers better trajectory smoothness and robustness in handling measurement noise. Root Mean Square Error (RMSE) values show EKF having lower error than RHE, but RHE offers better noise compensation.</p>
