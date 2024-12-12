@@ -11,7 +11,7 @@ collection: portfolio
 * <p style="text-align: justify;"><b>Method</b><br>The research focuses on assessing the performance of EKF and RHE under conditions of variable measurement delays and noise. EKF, a recursive Bayesian filter, estimates the state of nonlinear systems by linearizing system dynamics around current estimates of state and covariance. Meanwhile, RHE operates within the Model Predictive Control (MPC) framework, continuously updating state estimates based on the latest available measurements, by solving an optimization problem over a finite time horizon. This enables RHE to adaptively refine trajectory predictions and control inputs for spacecraft navigation. Both techniques are tested using full state and range-bearing measurements to ensure accurate navigation in noisy conditions.</p>
 
     <div style="text-align:center">
-    <img src="/images/MPC.PNG" alt="buggy_lqr_plots" style="width:400px;height:230px;">
+    <img src="https://wangqihan2000.github.io/wqh.github.io/images/MPC.PNG" alt="buggy_lqr_plots" style="width:400px;height:230px;">
     </div>
     
     <img src="/images/EKF_RHE.PNG" alt="buggy_lqr_plots" style="width:350px;height:400px;">
