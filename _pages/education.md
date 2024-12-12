@@ -21,5 +21,5 @@ Master of Science in Mechanical Engineering - Research
 <h4></h4>
 Bachelor in Mechanical Engineering & Aeronautical Engineering
 
-  *  GPA - 3.4/4.0
+  *  GPA - 3.45/4.0
 
