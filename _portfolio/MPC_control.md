@@ -4,7 +4,7 @@ excerpt: "Implemented various control techniques on a Tesla simulation. <br/><im
 collection: portfolio
 ---
 
-* <b>Tech Stack:</b> Python, Webots
+* <b>Tech Stack:</b> Python, Webot
 
 *  <p style="text-align: justify;"><b>Introduction</b><br>This project focuses on designing and implementing control systems for lateral vehicle dynamics using a state-space model. The tasks include checking the controllability and stabilizability of a linearized system, designing a lateral full-state feedback controller, and evaluating its performance in Webots simulation software. The project aims to achieve robust lateral control for an autonomous vehicle, ensuring stability and accuracy in trajectory tracking under various dynamic conditions.</p>
   
