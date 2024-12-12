@@ -1,6 +1,6 @@
 ---
 title: "Optimization of hybrid renewable energy Microgrid Project"
-excerpt: "The research formulates a Nonlinear Programming (NLP) model to optimize the microgrid's performance. <br/><img src='/images/Microgrid.PNG'>"
+excerpt: "The research formulates a Nonlinear Programming (NLP) model to optimize the microgrid's performance. <br/><img src='/images/Microgrid.png'>"
 collection: portfolio
 ---
 
@@ -20,7 +20,7 @@ collection: portfolio
 * <p style="text-align: justify;"><b>Results</b><br>The anticipated outcomes include strategies for cost-effective energy allocation and integration of renewable energy sources, resulting in a lower LCOE compared to grid electricity. Additionally, the study expects to demonstrate an increased share of renewable energy in the energy mix, optimized storage usage, and reliable system performance even during periods of low renewable generation.</p>
 
     <div style="text-align:center">
-    <img src="/images/Microgrid.PNG" alt="buggy_lqr_plots">
+    <img src="/images/Microgrid.png" alt="buggy_lqr_plots">
     </div>
     
 * <p style="text-align: justify;"><b>Discussion</b><br>This project tackles significant trade-offs between cost and performance, particularly concerning storage system efficiency and grid reliance during energy shortfalls. The findings will provide valuable insights into the feasibility of integrating renewables into energy-intensive systems, balancing sustainability goals with economic efficiency. By addressing both natural constraints (e.g., resource availability) and operational objectives (e.g., LCOE minimization), the study aims to contribute to advancing renewable microgrid technology and its implementation in large-scale energy systems.</p>
