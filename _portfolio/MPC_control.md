@@ -1,6 +1,6 @@
 ---
 title: "Multi Control theories used to simulate the vehicle path"
-excerpt: "Implemented various control techniques on a Tesla simulation. <br/><img src='/images/control_page.PNG'>"
+excerpt: "Implemented various control techniques on a Tesla simulation. <br/><img src='https://wangqihan2000.github.io/wqh.github.io/images/control_page.PNG'>"
 collection: portfolio
 ---
 
@@ -20,6 +20,6 @@ collection: portfolio
     <p>With LQR, the time taken to complete the track was 152.96 s. Which is significantly faster than the PID.</p>
 
     <div style="text-align:center">
-    <img src="/images/LQR.PNG" alt="buggy_lqr_plots" style="width:500px;height:400px;">
+    <img src="https://wangqihan2000.github.io/wqh.github.io/images/LQR.PNG" alt="buggy_lqr_plots" style="width:500px;height:400px;">
     </div>
 
