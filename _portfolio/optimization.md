@@ -11,7 +11,7 @@ collection: portfolio
 * <p style="text-align: justify;"><b>Method</b><br>The research formulates a Nonlinear Programming (NLP) model to optimize the microgrid's performance. Interior Point Methods will solve the problem, considering constraints such as renewable generation capacity, grid import limits, and minimum renewable energy contributions. Key variables include energy output from PV and wind farms, storage system dynamics, and grid import rates. Essential parameters, such as solar irradiance, wind speeds, and technical specifications, will be determined using location-specific historical data and manufacturer guidelines.</p>
 
     <div style="text-align:center">
-    <img src="/images/Obj_fun.PNG" alt="buggy_lqr_plots" style="width:500px;height:350px;">
+    <img src="/images/Obj_fun.PNG" alt="buggy_lqr_plots" style="width:500px;height:200px;">
     </div>
     
     <img src="/images/cons.PNG" alt="buggy_lqr_plots" style="width:500px;height:350px;">
