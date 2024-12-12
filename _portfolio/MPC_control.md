@@ -17,9 +17,9 @@ collection: portfolio
       3. Average deviation from the reference trajectory below 4.5 meters.<br><br>
       The project provides insights into how different pole placements influence system response and stability. Performance plots, including state trajectories and pole dynamics, offer a quantitative evaluation of the control system's effectiveness.</p>
 
-    <p>With LQR, the time taken to complete the track was 152.96 s. Hence, it was significantly faster than the PID.</p>
+    <p>With LQR, the time taken to complete the track was 152.96 s. Which is significantly faster than the PID.</p>
 
     <div style="text-align:center">
-    #<img src="/images/buggy_lqr_plots.png" alt="buggy_lqr_plots" style="width:500px;height:400px;">
+    <img src="/images/LQR.PNG" alt="buggy_lqr_plots" style="width:500px;height:400px;">
     </div>
 
