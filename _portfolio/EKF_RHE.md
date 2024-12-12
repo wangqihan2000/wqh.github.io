@@ -1,12 +1,12 @@
 ---
 title: "Investigation of Duality between EKF and Receding Horizon Estimator"
-excerpt: "This paper investigates the duality between two prominent estimation techniques—Extended Kalman Filter (EKF) and Receding Horizon Estimator (RHE)—in the context of spacecraft navigation. <br/><img src='/images/dock.png'>"
+excerpt: "This paper investigates the duality between two prominent estimation techniques—Extended Kalman Filter (EKF) and Receding Horizon Estimator (RHE)—in the context of spacecraft navigation. <br/><img src='/images/dock.PNG'>"
 collection: portfolio
 ---
 
 * <b>Tech Stack:</b> Julia, Python, Control Theory
 
-*  <p style="text-align: justify;"><b>Introduction</b><br>This paper investigates the duality between two prominent estimation techniques—Extended Kalman Filter (EKF) and Receding Horizon Estimator (RHE)—in the context of spacecraft navigation. These methods are employed to handle dynamic systems operating in noisy environments, where delays occur between sensor measurements and their integration into state estimators. The project explores their efficacy for SpaceX Dragon 1’s relative navigation to the International Space Station (ISS). Through mathematical analysis and simulation, the paper aims to compare these techniques to reveal their strengths and limitations in optimizing state estimation and control for dynamic aerospace systems.</p>
+* <p style="text-align: justify;"><b>Introduction</b><br>This paper investigates the duality between two prominent estimation techniques—Extended Kalman Filter (EKF) and Receding Horizon Estimator (RHE)—in the context of spacecraft navigation. These methods are employed to handle dynamic systems operating in noisy environments, where delays occur between sensor measurements and their integration into state estimators. The project explores their efficacy for SpaceX Dragon 1’s relative navigation to the International Space Station (ISS). Through mathematical analysis and simulation, the paper aims to compare these techniques to reveal their strengths and limitations in optimizing state estimation and control for dynamic aerospace systems.</p>
   
 * <p style="text-align: justify;"><b>Method</b><br>The research focuses on assessing the performance of EKF and RHE under conditions of variable measurement delays and noise. EKF, a recursive Bayesian filter, estimates the state of nonlinear systems by linearizing system dynamics around current estimates of state and covariance. Meanwhile, RHE operates within the Model Predictive Control (MPC) framework, continuously updating state estimates based on the latest available measurements, by solving an optimization problem over a finite time horizon. This enables RHE to adaptively refine trajectory predictions and control inputs for spacecraft navigation. Both techniques are tested using full state and range-bearing measurements to ensure accurate navigation in noisy conditions.</p>
 
