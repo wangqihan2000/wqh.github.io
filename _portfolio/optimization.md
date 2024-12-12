@@ -1,6 +1,6 @@
 ---
 title: "Optimization of hybrid renewable energy Microgrid Project"
-excerpt: "The research formulates a Nonlinear Programming (NLP) model to optimize the microgrid's performance. <br/><img src='/images/Microgrid.png'>"
+excerpt: "The research formulates a Nonlinear Programming (NLP) model to optimize the microgrid's performance. <br/><img src='https://wangqihan2000.github.io/wqh.github.io/images/Microgrid.png'>"
 collection: portfolio
 ---
 
@@ -11,16 +11,16 @@ collection: portfolio
 * <p style="text-align: justify;"><b>Method</b><br>The research formulates a Nonlinear Programming (NLP) model to optimize the microgrid's performance. Interior Point Methods will solve the problem, considering constraints such as renewable generation capacity, grid import limits, and minimum renewable energy contributions. Key variables include energy output from PV and wind farms, storage system dynamics, and grid import rates. Essential parameters, such as solar irradiance, wind speeds, and technical specifications, will be determined using location-specific historical data and manufacturer guidelines.</p>
 
     <div style="text-align:center">
-    <img src="/images/Obj_fun.PNG" alt="buggy_lqr_plots" style="width:500px;height:280px;">
+    <img src="https://wangqihan2000.github.io/wqh.github.io/images/Obj_fun.PNG" alt="buggy_lqr_plots" style="width:500px;height:280px;">
     </div>
     
-    <img src="/images/cons.PNG" alt="buggy_lqr_plots" style="width:600px;height:480px;">
+    <img src="https://wangqihan2000.github.io/wqh.github.io/images/cons.PNG" alt="buggy_lqr_plots" style="width:600px;height:480px;">
     </div>
     
 * <p style="text-align: justify;"><b>Results</b><br>The anticipated outcomes include strategies for cost-effective energy allocation and integration of renewable energy sources, resulting in a lower LCOE compared to grid electricity. Additionally, the study expects to demonstrate an increased share of renewable energy in the energy mix, optimized storage usage, and reliable system performance even during periods of low renewable generation.</p>
 
     <div style="text-align:center">
-    <img src="/images/Microgrid.png" alt="buggy_lqr_plots" style="width:500px;height:350px;">
+    <img src="https://wangqihan2000.github.io/wqh.github.io/images/Microgrid.png" alt="buggy_lqr_plots" style="width:500px;height:350px;">
     </div>
     
 * <p style="text-align: justify;"><b>Discussion</b><br>This project tackles significant trade-offs between cost and performance, particularly concerning storage system efficiency and grid reliance during energy shortfalls. The findings will provide valuable insights into the feasibility of integrating renewables into energy-intensive systems, balancing sustainability goals with economic efficiency. By addressing both natural constraints (e.g., resource availability) and operational objectives (e.g., LCOE minimization), the study aims to contribute to advancing renewable microgrid technology and its implementation in large-scale energy systems.</p>
