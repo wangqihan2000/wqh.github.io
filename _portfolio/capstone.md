@@ -20,7 +20,7 @@ collection: portfolio
 * <p style="text-align: justify;"><b>Results</b><br>Through iterative testing and analysis, the missile’s forward-swept wing design showed improved agility and range without compromising stealth. The missile achieved a favorable balance between stability and maneuverability across various flight phases, meeting NATO’s maneuverability benchmarks. Material testing confirmed that the chosen materials could withstand the loads experienced in high-speed, high-maneuver scenarios without significant fatigue or deformation. Furthermore, the low RCS configuration demonstrated substantial reductions in detectability in radar simulations, fulfilling stealth requirements critical to modern warfare.</p>
 
     <div style="text-align:center">
-    <img src="/images/FEA_dis.PNG" alt="buggy_lqr_plots" style="width:500px;height:400px;">
+    <img src="/images/FEA_dis.PNG" alt="buggy_lqr_plots" style="width:500px;height:350px;">
     </div>
     
     <img src="/images/Von.PNG" alt="buggy_lqr_plots" style="width:500px;height:400px;">
