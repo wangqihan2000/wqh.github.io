@@ -1,6 +1,6 @@
 ---
 title: "Multi Control theories used to simulate the vehicle path"
-excerpt: "Implemented various control techniques on a Tesla simulation. <br/><img src='/images/control_page.PNG' style='width:250;height:150;'>"
+excerpt: "Implemented various control techniques on a Tesla simulation. <br/><img src='/images/control_page.PNG'>"
 collection: portfolio
 ---
 
