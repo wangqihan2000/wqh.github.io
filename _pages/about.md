@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome Qihan's Webpage!
 
-Here is my [Resume](files/Resume.pdf)!
+Here is my [Resume](/files/Resume.pdf)!
 
 I am Qihan Wang. I am currently pursuing my Master degree in Mechanical Engineering with specialization in Robotics, Controls, and manipulation from Carnegie Mellon University in Pittsburgh, PA, US. I completed my Bachelor degree in Mechanical Engineering & Aeronautical Engineering from Rensselaer Polytechnic Institute, NY, US. I am interested in Robotics and wish to make a difference and contribute positively to society. I am seeking full-time jobs in Robotics field, especially in controls and design.
 
