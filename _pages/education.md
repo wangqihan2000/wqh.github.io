@@ -12,8 +12,8 @@ redirect_from:
 <p><h3><span style="text-align:left; display:inline-block; width:50%;">Carnegie Mellon University, Pittsburgh</span><span style="text-align:right; display:inline-block; width:50%;">August 2023 - May 2025</span></h3></p>
 Master of Science in Mechanical Engineering - Research
 
-  *  GPA - 3.6/4.0
-  *  Relevant Course Work - Optimal Control and Reinforcement Learning (16745), Modern Control Theory (24677), Robot Dynamics and Analysis (24760), Machine Learning and Artificial Intelligence for Engineers (24787), Engineering Optimization (24785)
+  *  GPA - 3.51/4.0
+  *  Relevant Course Work - Optimal Control and Reinforcement Learning (16745), Modern Control Theory (24677), Robot Dynamics and Analysis (24760), Machine Learning and Artificial Intelligence for Engineers (24787), Engineering Optimization (24785), Intro to Deep learning (24788/789), Deep reinforcement learning and control (10403)
 
 
 
