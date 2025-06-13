@@ -13,7 +13,7 @@ title                    : "Qihan Wang / My Portfolio"
 title_separator          : "-"
 name                     : &name "Qihan Wang"
 description              : &description "personal description"
-url                      : "https://wangqihan2000.github.io"
+url                      : 
 baseurl                  : "/wqh.github.io"
 repository               : "wangqihan2000/wqh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
