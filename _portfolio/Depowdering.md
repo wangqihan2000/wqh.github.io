@@ -1,6 +1,6 @@
 ---
 title: "Automated Grasp Point Generation for Wire Grippers in Binder-Jet Metal Additive Manufacturing"
-excerpt: " This research presents a novel algorithm for generating grasp point candidates on any 3D objects using wire grippers <br/><img src='https://wangqihan2000.github.io/wqh.github.io/images/setup.PNG'>"
+excerpt: " This research presents a novel algorithm for generating grasp point candidates on any 3D objects using wire grippers <br/><img src='https://wangqihan2000.github.io/wqh.github.io/images/setup.png'>"
 collection: portfolio
 ---
 
