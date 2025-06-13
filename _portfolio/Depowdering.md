@@ -6,32 +6,8 @@ collection: portfolio
 
 * <b>Tech Stack:</b> Python, PointClouds, ROS, Docker, Nvidia ISAAC Sim, RViz, Arduino, SW, Machining/Manufacturing
 
-* <p style="text-align: justify;"><b>Abstract</b><br>De-powdering is a critical step in binder jet
- metal additive manufacturing, which requires efficient
- and automated solutions to remove residual powder
- while maintaining part integrity. This research presents
- a novel algorithm for generating grasp point candidates
- on any 3D objects using wire grippers wires bent in
- certain directions. The method involves projecting STL
- models onto a 2D bitmap to extract a silhouette, applying
- morphological dilation and contour detection to identify
- key boundary features, and classifying grasp points based
- on curvature analysis. A direction-aware selection process
- determines four optimal grasping points with correspond
-ing orientations, ensuring stable lifting configurations.
- The grasping strategy is further validated in NVIDIA
- Isaac Sim through physics-based simulations, where wire
- grippers attempt to lift and stabilize parts. The results
- demonstrate the robustness of the proposed approach
- in identifying reliable grasp points for diverse 3D ge
-ometries, paving the way for automated depowdering
- solutions in industrial additive manufacturing workflows.
- The progress in the solution establishes binder jet metal
- 3D printing as a cutting-edge method for producing
- complex, high-performance parts with diverse industrial
- applications. This research drives additive manufacturing
- forward by opening up new opportunities for scalable and
- flexible production systems in contemporary industry.</p>
+* <p style="text-align: justify;"><b>Abstract</b><br>De-powdering is a critical step in binder jet metal additive manufacturing, which requires efficient and automated solutions to remove residual powder while maintaining part integrity. This research presents a novel algorithm for generating grasp point candidates on any 3D objects using wire grippers wires bent in certain directions. The method involves projecting STL models onto a 2D bitmap to extract a silhouette, applying morphological dilation and contour detection to identify key boundary features, and classifying grasp points based on curvature analysis. A direction-aware selection processdetermines four optimal grasping points with corresponding orientations, ensuring stable lifting configurations. The grasping strategy is further validated in NVIDIA Isaac Sim through physics based simulations, where wire grippers attempt to lift and stabilize parts. The results demonstrate the robustness of the proposed approach
+in identifying reliable grasp points for diverse 3D geometries, paving the way for automated depowdering solutions in industrial additive manufacturing workflows. The progress in the solution establishes binder jet metal 3D printing as a cutting-edge method for producing complex, high-performance parts with diverse industrial applications. This research drives additive manufacturing forward by opening up new opportunities for scalable and flexible production systems in contemporary industry. Here is the link</p>
   
 * <p style="text-align: justify;"><b>Method</b><br>The research focuses on assessing the performance of EKF and RHE under conditions of variable measurement delays and noise. EKF, a recursive Bayesian filter, estimates the state of nonlinear systems by linearizing system dynamics around current estimates of state and covariance. Meanwhile, RHE operates within the Model Predictive Control (MPC) framework, continuously updating state estimates based on the latest available measurements, by solving an optimization problem over a finite time horizon. This enables RHE to adaptively refine trajectory predictions and control inputs for spacecraft navigation. Both techniques are tested using full state and range-bearing measurements to ensure accurate navigation in noisy conditions.</p>
 
